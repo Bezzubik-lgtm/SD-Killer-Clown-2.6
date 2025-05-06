@@ -1,1 +1,11 @@
-# SD-Killer-Clown-2.6
+<div align="center">
+ 
+<img src="https://raw.githubusercontent.com/theevilteam/KILLER-CLOWN-extracted/main/Wallpaper/clown.png" width="100" height="100" />
+
+## Killer Clown (extracted)
+ троян SD  Killer Clown 2.6
+
+</div>
+
+## Disclaimer
+Всё что находится в данном репозитории исключительно в **ОЗНАКОМИТЕЛЬНЫХ ЦЕЛЯХ**. Вы используете содержимое репозитория на свой страх и риск
